@@ -1,0 +1,12 @@
+{
+  "request": {
+    "method": "GET",
+    "route": "/results"
+  },
+  "response": {
+    "status": "ok",
+    "body": {
+      "result": "api result"
+    }
+  }
+}

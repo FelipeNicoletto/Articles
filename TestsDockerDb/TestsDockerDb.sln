@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestsDockerDb.Tests", "TestsDockerDb.Tests\TestsDockerDb.Tests.csproj", "{49520D1C-6CEB-4903-821E-0BA3BF1A1997}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestsDockerDb.Api", "TestsDockerDb.Api\TestsDockerDb.Api.csproj", "{1661D601-E266-4DEB-A2B4-060363FE9EBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49520D1C-6CEB-4903-821E-0BA3BF1A1997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49520D1C-6CEB-4903-821E-0BA3BF1A1997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49520D1C-6CEB-4903-821E-0BA3BF1A1997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49520D1C-6CEB-4903-821E-0BA3BF1A1997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1661D601-E266-4DEB-A2B4-060363FE9EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1661D601-E266-4DEB-A2B4-060363FE9EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1661D601-E266-4DEB-A2B4-060363FE9EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1661D601-E266-4DEB-A2B4-060363FE9EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C71B88DA-5FA9-479D-AB1A-E2E179369726}
+	EndGlobalSection
+EndGlobal
